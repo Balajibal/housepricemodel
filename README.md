@@ -252,8 +252,6 @@ def HouseModelPrediction(request):
 
 ![output](./static/img/ra1.png)
 
-![output](./static/img/ra2.png)
-
 ### validation report:
 
 ![output](./static/img/ra3.png)
