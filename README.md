@@ -271,4 +271,4 @@ def HouseModelPrediction(request):
 
 
 ## RESULT:
-Thus a website is designed to train the price model and to predict the price and is hosted in the URL http://balaji.student.saveetha.in:8000/HouseModelTraining/ and http://balaji.student.saveetha.in:8000/HouseModelPrediction/ HTML code is vaildated
+Thus a website is designed to train the price model and to predict the price and is hosted in the URL http://balaji.student.saveetha.in:8000/HouseModelTraining/ and http://balaji.student.saveetha.in:8000/HouseModelPrediction/ HTML code is vaildated.
