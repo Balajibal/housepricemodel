@@ -249,22 +249,21 @@ def HouseModelPrediction(request):
 
 
 ## OUTPUT:
-```
+
 
 ![output](./static/img/ra1.png)
 
 ![output](./static/img/ra2.png)
 
-```
+
 
 ### validation report:
-```
+
 
 ![output](./static/img/ra3.png)
 
 ![output](./static/img/ra4.png)
 
-```
 
 
 
