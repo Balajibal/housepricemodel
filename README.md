@@ -23,7 +23,7 @@ Display the result
 Publish the website in the given URL.
 
 ## PROGRAM:
-### housepricetraining.html:
+### HOUSEPRICETRAINING.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -84,7 +84,7 @@ Publish the website in the given URL.
   </body>
 </html>
 ```
-### housepriceprediction.html:
+### HOUSEPRICEPREDICTION.html:
 ```
 <!doctype html>
 <html lang="en">
